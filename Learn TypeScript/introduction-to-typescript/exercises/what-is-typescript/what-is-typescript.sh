@@ -1,1 +1,2 @@
 tsc
+node index.js
